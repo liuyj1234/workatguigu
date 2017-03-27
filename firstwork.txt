@@ -1,4 +1,8 @@
 firstworkdetails
 update by liuyj1234b_01
+<<<<<<< HEAD
 update by liuyj1234b_02
 
+=======
+update by liuyj1234_02
+>>>>>>> d31aab80a6f7b661c292298a34b9bbf442c51277
